@@ -67,7 +67,7 @@ function filterLongWords(words, i) {
     return words.filter(w => w.length > i);
 }
 
-// map, filter
+// map, filter example from JsFiddle
 
 // use map to multiply each by 10
 function multiplyBy10() {
